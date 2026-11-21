@@ -7,5 +7,5 @@ This description will be updated on a regular basis. Note that each link leads t
 
 ## Projects: 
 
-* [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/chansc90/data_analysis_-mechansc/blob/main/Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets)
+* Profitable App Profiles for the App Store and Google Play Markets
 * B
