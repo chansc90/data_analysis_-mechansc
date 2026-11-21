@@ -1,4 +1,4 @@
-# data_analysis_-mechansc
+# data_analysis_chanscme
 A couple of small data analysis projects 
 
 I am starting with a number of [tutorial](https://www.kaggle.com/) based [learning projects](https://www.dataquest.io/) and smaller data explorations, which I will subsequently develop to create more repositories to scale project size and complexity.
