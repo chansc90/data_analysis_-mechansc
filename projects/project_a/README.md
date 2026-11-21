@@ -27,4 +27,4 @@ This project uses the following data files:
 
 ## Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](http://localhost:8888/notebooks/Documents/Weiterbildungen/Dataquest/python%20course/Guided%20Project_Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb).
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/chansc90/data_analysis_-mechansc/blob/main/projects/project_a/Guided%20Project_Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb).
