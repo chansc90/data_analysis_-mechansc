@@ -24,4 +24,4 @@ This project uses the following data files:
 
 ## Project Notebook
 
-You can also directly view or run the analysis in the [Jupyter Notebook](http://localhost:8888/notebooks/Documents/Weiterbildungen/Dataquest/python%20course/Telling%20Stories%20Using%20Data%20Visualization%20and%20Information%20Design.ipynb).
+You can also directly view or run the analysis in the [Jupyter Notebook](https://github.com/chansc90/data_analysis_-mechansc/blob/main/projects/Corona%20Deathtoll/Corona%20Deathtoll%202020.ipynb)
